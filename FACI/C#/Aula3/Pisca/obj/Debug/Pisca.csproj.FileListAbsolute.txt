@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Pisca\bin\Debug\Pisca.exe.config
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Pisca\bin\Debug\Pisca.exe
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Pisca\bin\Debug\Pisca.pdb
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Pisca\obj\Debug\Pisca.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Pisca\obj\Debug\Pisca.Form1.resources
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Pisca\obj\Debug\Pisca.Properties.Resources.resources
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Pisca\obj\Debug\Pisca.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Pisca\obj\Debug\Pisca.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Pisca\obj\Debug\Pisca.exe
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Pisca\obj\Debug\Pisca.pdb

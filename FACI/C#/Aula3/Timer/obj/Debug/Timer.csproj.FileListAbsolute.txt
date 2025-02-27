@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Timer\bin\Debug\Timer.exe.config
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Timer\bin\Debug\Timer.exe
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Timer\bin\Debug\Timer.pdb
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Timer\obj\Debug\Timer.exe
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Timer\obj\Debug\Timer.pdb

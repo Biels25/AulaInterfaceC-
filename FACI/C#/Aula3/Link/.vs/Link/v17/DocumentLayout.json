@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\AulaInterfaceC-\\FACI\\C#\\Aula3\\Link\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAEFF8B-EFE5-4A22-B150-01673AD35B61}|Link.csproj|c:\\users\\aluno\\desktop\\aulainterfacec-\\faci\\c#\\aula3\\link\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECAEFF8B-EFE5-4A22-B150-01673AD35B61}|Link.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAEFF8B-EFE5-4A22-B150-01673AD35B61}|Link.csproj|c:\\users\\aluno\\desktop\\aulainterfacec-\\faci\\c#\\aula3\\link\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAEFF8B-EFE5-4A22-B150-01673AD35B61}|Link.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\AulaInterfaceC-\\FACI\\C#\\Aula3\\Link\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\AulaInterfaceC-\\FACI\\C#\\Aula3\\Link\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:32:09.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\AulaInterfaceC-\\FACI\\C#\\Aula3\\Link\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\AulaInterfaceC-\\FACI\\C#\\Aula3\\Link\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:22:22.303Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

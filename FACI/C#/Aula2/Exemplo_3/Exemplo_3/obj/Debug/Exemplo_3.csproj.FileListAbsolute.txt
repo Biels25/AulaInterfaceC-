@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\FACI\C#\Aula2\Exemplo_3\Exemplo_3\bin\Debug\Exemplo_3.exe.config
+C:\Users\Aluno\Desktop\FACI\C#\Aula2\Exemplo_3\Exemplo_3\bin\Debug\Exemplo_3.exe
+C:\Users\Aluno\Desktop\FACI\C#\Aula2\Exemplo_3\Exemplo_3\bin\Debug\Exemplo_3.pdb
+C:\Users\Aluno\Desktop\FACI\C#\Aula2\Exemplo_3\Exemplo_3\obj\Debug\Exemplo_3.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\FACI\C#\Aula2\Exemplo_3\Exemplo_3\obj\Debug\Exemplo_3.Form1.resources
+C:\Users\Aluno\Desktop\FACI\C#\Aula2\Exemplo_3\Exemplo_3\obj\Debug\Exemplo_3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\FACI\C#\Aula2\Exemplo_3\Exemplo_3\obj\Debug\Exemplo_3.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\FACI\C#\Aula2\Exemplo_3\Exemplo_3\obj\Debug\Exemplo_3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\FACI\C#\Aula2\Exemplo_3\Exemplo_3\obj\Debug\Exemplo_3.exe
+C:\Users\Aluno\Desktop\FACI\C#\Aula2\Exemplo_3\Exemplo_3\obj\Debug\Exemplo_3.pdb

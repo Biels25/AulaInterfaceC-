@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Link\bin\Debug\Link.exe.config
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Link\bin\Debug\Link.exe
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Link\bin\Debug\Link.pdb
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Link\obj\Debug\Link.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Link\obj\Debug\Link.Form1.resources
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Link\obj\Debug\Link.Properties.Resources.resources
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Link\obj\Debug\Link.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Link\obj\Debug\Link.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Link\obj\Debug\Link.exe
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula3\Link\obj\Debug\Link.pdb

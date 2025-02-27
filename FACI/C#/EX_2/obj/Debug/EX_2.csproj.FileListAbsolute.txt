@@ -1,0 +1,40 @@
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 1\EX_2\bin\Debug\EX_2.exe.config
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 1\EX_2\bin\Debug\EX_2.exe
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 1\EX_2\bin\Debug\EX_2.pdb
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 1\EX_2\obj\Debug\EX_2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 1\EX_2\obj\Debug\EX_2.Form1.resources
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 1\EX_2\obj\Debug\EX_2.Properties.Resources.resources
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 1\EX_2\obj\Debug\EX_2.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 1\EX_2\obj\Debug\EX_2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 1\EX_2\obj\Debug\EX_2.exe
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 1\EX_2\obj\Debug\EX_2.pdb
+C:\Users\Aluno\Desktop\EX_2\bin\Debug\EX_2.exe.config
+C:\Users\Aluno\Desktop\EX_2\bin\Debug\EX_2.exe
+C:\Users\Aluno\Desktop\EX_2\bin\Debug\EX_2.pdb
+C:\Users\Aluno\Desktop\EX_2\obj\Debug\EX_2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\EX_2\obj\Debug\EX_2.Form1.resources
+C:\Users\Aluno\Desktop\EX_2\obj\Debug\EX_2.Properties.Resources.resources
+C:\Users\Aluno\Desktop\EX_2\obj\Debug\EX_2.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\EX_2\obj\Debug\EX_2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\EX_2\obj\Debug\EX_2.exe
+C:\Users\Aluno\Desktop\EX_2\obj\Debug\EX_2.pdb
+C:\Users\Aluno\Desktop\FACI\C#\EX_2\bin\Debug\EX_2.exe.config
+C:\Users\Aluno\Desktop\FACI\C#\EX_2\bin\Debug\EX_2.exe
+C:\Users\Aluno\Desktop\FACI\C#\EX_2\bin\Debug\EX_2.pdb
+C:\Users\Aluno\Desktop\FACI\C#\EX_2\obj\Debug\EX_2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\FACI\C#\EX_2\obj\Debug\EX_2.Form1.resources
+C:\Users\Aluno\Desktop\FACI\C#\EX_2\obj\Debug\EX_2.Properties.Resources.resources
+C:\Users\Aluno\Desktop\FACI\C#\EX_2\obj\Debug\EX_2.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\FACI\C#\EX_2\obj\Debug\EX_2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\FACI\C#\EX_2\obj\Debug\EX_2.exe
+C:\Users\Aluno\Desktop\FACI\C#\EX_2\obj\Debug\EX_2.pdb
+C:\Users\Aluno\Documents\AulaC-\FACI\C#\EX_2\obj\Debug\EX_2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\AulaC-\FACI\C#\EX_2\obj\Debug\EX_2.Form1.resources
+C:\Users\Aluno\Documents\AulaC-\FACI\C#\EX_2\obj\Debug\EX_2.Properties.Resources.resources
+C:\Users\Aluno\Documents\AulaC-\FACI\C#\EX_2\obj\Debug\EX_2.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\AulaC-\FACI\C#\EX_2\obj\Debug\EX_2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\AulaC-\FACI\C#\EX_2\obj\Debug\EX_2.exe
+C:\Users\Aluno\Documents\AulaC-\FACI\C#\EX_2\obj\Debug\EX_2.pdb
+C:\Users\Aluno\Documents\AulaC-\FACI\C#\EX_2\bin\Debug\EX_2.exe.config
+C:\Users\Aluno\Documents\AulaC-\FACI\C#\EX_2\bin\Debug\EX_2.exe
+C:\Users\Aluno\Documents\AulaC-\FACI\C#\EX_2\bin\Debug\EX_2.pdb
