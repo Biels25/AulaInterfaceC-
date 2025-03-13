@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula4\Exemplo4\bin\Debug\Exemplo4.exe.config
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula4\Exemplo4\bin\Debug\Exemplo4.exe
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula4\Exemplo4\bin\Debug\Exemplo4.pdb
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula4\Exemplo4\obj\Debug\Exemplo4.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula4\Exemplo4\obj\Debug\Exemplo4.Form1.resources
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula4\Exemplo4\obj\Debug\Exemplo4.Properties.Resources.resources
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula4\Exemplo4\obj\Debug\Exemplo4.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula4\Exemplo4\obj\Debug\Exemplo4.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula4\Exemplo4\obj\Debug\Exemplo4.exe
+C:\Users\Aluno\Desktop\AulaInterfaceC-\FACI\C#\Aula4\Exemplo4\obj\Debug\Exemplo4.pdb
