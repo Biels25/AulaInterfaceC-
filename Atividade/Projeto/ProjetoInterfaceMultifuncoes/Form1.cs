@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Atividade4
+namespace ProjetoInterfaceMultifuncoes
 {
     public partial class Form1 : Form
     {
@@ -20,6 +20,9 @@ namespace Atividade4
             InitializeComponent();
             timerCOM.Interval = 2000;
             timerCOM.Start();
+            picBoxLED.Tag = "Desligado";
+            picBoxLED.Image = Image.FromFile("");
+            picBoxLED.SizeMode = PictureBoxSizeMode.StretchImage;
         }
 
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
@@ -75,17 +78,22 @@ namespace Atividade4
                     bufferRecebido.Append(linhas[linhas.Length - 1]);
                 }
 
+                // Agora dividimos os dados usando a vírgula como delimitador
                 string dadosRecebidos = linhas[0].Trim();
+                string[] dados = dadosRecebidos.Split(',');
 
-                if (double.TryParse(dadosRecebidos, out double valorAnalogico))
+                if (dados.Length == 3)
                 {
-               
-                    double tensao = valorAnalogico * (5.0 / 1023);
-                    lblValor.Text = $"Tensão: {Math.Round(tensao, 1)} V";
+                    double temperatura = double.Parse(dados[0]);
+                    double tensaoA0 = double.Parse(dados[2]);
+
+                    // Atualiza os rótulos na interface
+                    lblSensorTemp.Text = temperatura.ToString("0.00") + " °C";
+                    lblPotenciometro.Text = tensaoA0.ToString("0.00") + " V";
                 }
                 else
                 {
-                    lblValor.Text = "Dados inválidos: " + dadosRecebidos;
+                    MessageBox.Show("Dados recebidos estão com formato incorreto.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
             catch (Exception ex)
@@ -93,6 +101,7 @@ namespace Atividade4
                 MessageBox.Show("Erro ao processar dados: " + ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
 
         private void conectarSerial()
         {
@@ -135,37 +144,7 @@ namespace Atividade4
             }
         }
 
-        private void btnLigar_Click(object sender, EventArgs e)
-        {
-            if (serialPort1.IsOpen)
-            {
-                try
-                {
-                    if (btnLigar.Text == "Ligar")
-                    {
-                        serialPort1.Write("L\n");
-                        btnLigar.Text = "Desligar";
-
-                    }
-                    else
-                    {
-                        serialPort1.Write("D\n");
-                        btnLigar.Text = "Ligar";
-                    }
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show("Erro ao enviar comando: " + ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
-            }
-        }
-
-        private void timerCOM_Tick(object sender, EventArgs e)
-        {
-            atualizaListaCOMs();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
+        private void btnConectar_Click(object sender, EventArgs e)
         {
             if (serialPort1.IsOpen)
             {
@@ -177,9 +156,38 @@ namespace Atividade4
             }
         }
 
-        private void lblValor_Click(object sender, EventArgs e)
+        private void timerCOM_Tick(object sender, EventArgs e)
         {
+            atualizaListaCOMs();
+        }
 
+        private void picBoxLED_Click_1(object sender, EventArgs e)
+        {
+            if (serialPort1.IsOpen)
+            {
+                try
+                {
+                    if (picBoxLED.Tag.ToString() == "Desligado")
+                    {
+                        serialPort1.Write("D\n");
+                        picBoxLED.Tag = "Ligado";
+                        picBoxLED.Image = Image.FromFile("");
+                        picBoxLED.SizeMode = PictureBoxSizeMode.StretchImage;
+                    }
+                    else
+                    {
+                        serialPort1.Write("L\n");
+                        picBoxLED.Tag = "Desligado";
+                        picBoxLED.Image = Image.FromFile("");
+                        picBoxLED.SizeMode = PictureBoxSizeMode.StretchImage;
+
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Erro ao enviar comando: " + ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
         }
     }
 }

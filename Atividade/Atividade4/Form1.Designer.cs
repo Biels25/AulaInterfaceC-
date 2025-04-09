@@ -99,6 +99,7 @@
             this.lblValor.Size = new System.Drawing.Size(56, 13);
             this.lblValor.TabIndex = 4;
             this.lblValor.Text = "Tensão: V";
+            this.lblValor.Click += new System.EventHandler(this.lblValor_Click);
             // 
             // Form1
             // 
